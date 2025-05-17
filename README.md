@@ -7,18 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Node.js (v16 or higher)
 - npm (v8 or higher)
 
-## Clone the repository:
+## Steps to running the app:
 ```bash
 git clone https://github.com/iratdyawinggari/flight-seat-map.git
+
 cd flight-seat-map
 
-```bash
-
 npm install
-
-    Start development server:
-
-```bash
 
 npm start
 
